@@ -1,0 +1,5 @@
+students table => try removing nickname column
+teachers => id, name 
+cohort => id, name
+
+1 student can only have one cohort, but one teacher can have several cohorts
